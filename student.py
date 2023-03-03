@@ -40,7 +40,6 @@ class Student:
 ls = []
 obj = Student('', 0, '')
 
-# ch = int(input("Enter the choice:"))
 print("---------WELCOME -------")
 while(True):
    
